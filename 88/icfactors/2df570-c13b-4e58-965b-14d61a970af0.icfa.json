@@ -1,9 +1,61 @@
 {
     "AX": {
-        "error": 0.0,
-        "fit": "default",
-        "references": [],
-        "value": 1.0
+        "error": 0.00036140883122639297,
+        "fit": "exponential",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-1808",
+                "uuid": "8ff506d3-2ae9-4994-bd9d-6870033e0f04"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-1809",
+                "uuid": "099b4f98-3168-4de6-8be1-92733833dff3"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-1810",
+                "uuid": "e86d9037-bc70-497b-aa04-a0985c190892"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-1811",
+                "uuid": "98690025-fda6-4481-8985-940f606117a8"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-1812",
+                "uuid": "5eaf8497-7278-4ea0-8db7-b0de151acab2"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-1813",
+                "uuid": "3784518f-ea01-4f3b-baf0-0f59e543e568"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-1814",
+                "uuid": "5d9c4035-c2a8-4c62-97c0-14c09e237851"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-1815",
+                "uuid": "646cc79c-71b9-41ac-84fe-d24832d01637"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-1816",
+                "uuid": "f810105b-c3ce-42d5-bb86-747b7260045b"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-1817",
+                "uuid": "005e1232-d299-4bdd-bb8e-e89ec30c47e2"
+            }
+        ],
+        "reviewed": true,
+        "value": 1.000024500652918
     },
     "H1": {
         "error": 0.0,
@@ -18,15 +70,119 @@
         "value": 1.0
     },
     "L1": {
-        "error": 0.0,
-        "fit": "default",
-        "references": [],
-        "value": 1.0
+        "error": 0.0007333091468603307,
+        "fit": "exponential",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-1808",
+                "uuid": "8ff506d3-2ae9-4994-bd9d-6870033e0f04"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-1809",
+                "uuid": "099b4f98-3168-4de6-8be1-92733833dff3"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-1810",
+                "uuid": "e86d9037-bc70-497b-aa04-a0985c190892"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-1811",
+                "uuid": "98690025-fda6-4481-8985-940f606117a8"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-1812",
+                "uuid": "5eaf8497-7278-4ea0-8db7-b0de151acab2"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-1813",
+                "uuid": "3784518f-ea01-4f3b-baf0-0f59e543e568"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-1814",
+                "uuid": "5d9c4035-c2a8-4c62-97c0-14c09e237851"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-1815",
+                "uuid": "646cc79c-71b9-41ac-84fe-d24832d01637"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-1816",
+                "uuid": "f810105b-c3ce-42d5-bb86-747b7260045b"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-1817",
+                "uuid": "005e1232-d299-4bdd-bb8e-e89ec30c47e2"
+            }
+        ],
+        "reviewed": true,
+        "value": 1.000049711918658
     },
     "L2": {
-        "error": 0.0,
-        "fit": "default",
-        "references": [],
-        "value": 1.0
+        "error": 0.0011130833893338557,
+        "fit": "exponential",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-1808",
+                "uuid": "8ff506d3-2ae9-4994-bd9d-6870033e0f04"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-1809",
+                "uuid": "099b4f98-3168-4de6-8be1-92733833dff3"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-1810",
+                "uuid": "e86d9037-bc70-497b-aa04-a0985c190892"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-1811",
+                "uuid": "98690025-fda6-4481-8985-940f606117a8"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-1812",
+                "uuid": "5eaf8497-7278-4ea0-8db7-b0de151acab2"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-1813",
+                "uuid": "3784518f-ea01-4f3b-baf0-0f59e543e568"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-1814",
+                "uuid": "5d9c4035-c2a8-4c62-97c0-14c09e237851"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-1815",
+                "uuid": "646cc79c-71b9-41ac-84fe-d24832d01637"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-1816",
+                "uuid": "f810105b-c3ce-42d5-bb86-747b7260045b"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-01-A-1817",
+                "uuid": "005e1232-d299-4bdd-bb8e-e89ec30c47e2"
+            }
+        ],
+        "reviewed": true,
+        "value": 1.0000754563050795
     }
 }
